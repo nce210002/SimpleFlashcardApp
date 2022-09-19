@@ -6,7 +6,6 @@
 This app simply simulates flashcards of any topic you want to study (well right now, there's just one lol).
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
 <img src="https://raw.githubusercontent.com/nce210002/SimpleFlashcardApp/main/ezgif.com-gif-maker.gif" width=200><br>
 
