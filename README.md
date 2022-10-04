@@ -3,21 +3,20 @@
 ## Lab 2
 
 ### App Description
-`TODO://` Add app description
+This is an update to the app: you can now create your own! (kind of lol)
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+<img src="https://raw.githubusercontent.com/nce210002/SimpleFlashcardApp/main/ezgif.com-gif-maker.gif%20lab%202.gif" width=200><br>
 
 `TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
 
 ## Required
-- [ ] User can click on a ‘+’ button that takes the user to new ‘Add Card Screen’
-- [ ] The 'Add Card Screen' has a cancel button to take the user back to the main screen
-- [ ] User can enter and submit a Question and Answer through the 'Add Card Screen'
+- [x] User can click on a ‘+’ button that takes the user to new ‘Add Card Screen’
+- [x] The 'Add Card Screen' has a cancel button to take the user back to the main screen
+- [x] User can enter and submit a Question and Answer through the 'Add Card Screen'
 - [ ] User will see the card they just created on the main screen when they press the 'Save Button'
-- [ ] Push your progress to GitHub!
+- [x] Push your progress to GitHub!
 
 ## Optional
 - [ ] User can edit a card
@@ -25,7 +24,14 @@
 - [ ] A notification is shown if the card was created successfully
 - [ ] User can also enter multiple choice answers when creating a card
 - [ ] App is further styled and customized!
-============================================================================================================================================================
+
+
+
+
+
+
+
+
 ## Lab 1
 
 ### App Description
