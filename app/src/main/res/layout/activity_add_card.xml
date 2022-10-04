@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AddCardActivity">
+
+    <ImageView
+        android:id="@+id/CancelButton"
+        android:layout_width="143dp"
+        android:layout_height="158dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        app:srcCompat="@drawable/ic_cancel"
+        android:contentDescription="TODO" />
+
+    <EditText
+        android:id="@+id/question_edit_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="15"
+        android:hint="Enter the question here"
+        android:inputType="textPersonName"
+        android:minHeight="48dp"
+        android:textColorHint="#757575"
+        android:translationX="45dp"
+        android:translationY="100dp"
+        android:autofillHints="" />
+
+    <EditText
+        android:id="@+id/answer_edit_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="15"
+        android:hint="Enter the Answer Here"
+        android:inputType="textPersonName"
+        android:minHeight="48dp"
+        android:translationX="45dp"
+        android:translationY="200dp" />
+
+    <ImageView
+        android:id="@+id/SaveButton"
+        android:layout_width="143dp"
+        android:layout_height="158dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentBottom="true"
+        app:srcCompat="@drawable/ic_save" />
+
+</RelativeLayout>

@@ -21,4 +21,13 @@
         android:gravity="center"
         android:text="Barack Obama"
         android:textSize="40sp" />
+
+    <ImageView
+        android:id="@+id/AddButton"
+        android:layout_width="143dp"
+        android:layout_height="158dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        app:srcCompat="@drawable/ic_iconmonstr_plus_circle_thin" />
+
 </RelativeLayout>
