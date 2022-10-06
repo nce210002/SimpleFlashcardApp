@@ -7,7 +7,7 @@ This is an update to the app: you can now create your own! (kind of lol)
 
 ### App Walk-though
 
-<img src="https://raw.githubusercontent.com/nce210002/SimpleFlashcardApp/main/ezgif.com-gif-maker.gif%20lab%202.gif" width=200><br>
+<img src="https://raw.githubusercontent.com/nce210002/SimpleFlashcardApp/main/showcase.gif" width=200><br>
 
 `TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
 
