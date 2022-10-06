@@ -15,16 +15,18 @@ class AddCardActivity() : AppCompatActivity() {
         //Variables
         val cancel_button = findViewById<ImageView>(R.id.CancelButton)
         val save_button = findViewById<ImageView>(R.id.SaveButton)
-        val Question_Text = findViewById<EditText>(R.id.question_edit_text).text.toString()
-        val Answer_Text = findViewById<EditText>(R.id.answer_edit_text).text.toString()
+        val Question_Text = findViewById<EditText>(R.id.question_edit_text)
+        val Answer_Text = findViewById<EditText>(R.id.answer_edit_text)
 
 
 
         //Click save button to save the data
         save_button.setOnClickListener {
-            val data = Intent()
-            data.putExtra("Question_Key", Question_Text)
-            data.putExtra("Answer_Key", Answer_Text)
+            val questionString = Question_Text.text.toString()
+            val answerString = Answer_Text.text.toString()
+            val data = Intent(this@AddCardActivity, MainActivity::class.java)
+            data.putExtra("Question_Key", questionString)
+            data.putExtra("Answer_Key", answerString)
             setResult(RESULT_OK, data)
             finish()
 
