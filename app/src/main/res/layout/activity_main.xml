@@ -30,4 +30,12 @@
         android:layout_alignParentBottom="true"
         app:srcCompat="@drawable/ic_iconmonstr_plus_circle_thin" />
 
+    <ImageView
+        android:id="@+id/Next_Arrow"
+        android:layout_width="83dp"
+        android:layout_height="113dp"
+        android:translationX="300dp"
+        android:translationY="200dp"
+        app:srcCompat="@drawable/ic_arrow" />
+
 </RelativeLayout>
