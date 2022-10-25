@@ -5,9 +5,7 @@ The final build of the flashcard app. It should be functioning pretty well now!
 
 ### App Walk-though
 
-<img src="YOUR_GIF_URL_HERE" width=200><br>
-
-`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
+<img src="(https://raw.githubusercontent.com/nce210002/SimpleFlashcardApp/main/showcase%20lab%204.gif)" width=200><br>
 
 ## Required
 - [x] User sees a transition animation when going from the main screen to the add card screen.
