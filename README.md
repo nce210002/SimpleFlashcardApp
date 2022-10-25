@@ -5,7 +5,7 @@ The final build of the flashcard app. It should be functioning pretty well now!
 
 ### App Walk-though
 
-<img src="(https://raw.githubusercontent.com/nce210002/SimpleFlashcardApp/main/showcase%20lab%204.gif)" width=200><br>
+<img src="https://raw.githubusercontent.com/nce210002/SimpleFlashcardApp/main/showcase%20lab%204.gif" width=200><br>
 
 ## Required
 - [x] User sees a transition animation when going from the main screen to the add card screen.
